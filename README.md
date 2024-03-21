@@ -2,12 +2,6 @@
 
 Seja bem-vindo (a) ao repositório da disciplina de Programação Orientada a Objetos! Aqui você encontrará materiais das aulas práticas, exemplos de código e projetos desenvolvidos ao longo do semestre.
 
-## Estrutura do Repositório
-
-- **Aulas**: Pasta contendo os slides das aulas práticas.
-- **Projetos**: Pasta com os projetos desenvolvidos durante o curso.
-- **Exercicios**: Desafios e exercícios para praticar os conceitos aprendidos.
-
 ## Como Utilizar
 
 Para ter acesso aos materiais, basta clonar este repositório em sua máquina local:

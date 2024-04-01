@@ -1,4 +1,4 @@
-package aula2.heranca;
+package extra.heranca;
 
 public class Estatutario extends ServidorPublico {
 

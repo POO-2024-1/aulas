@@ -1,4 +1,4 @@
-package aula2.heranca;
+package extra.polimorfismo;
 
 public class Temporario extends ServidorPublico {
 
@@ -28,14 +28,4 @@ public class Temporario extends ServidorPublico {
         this.contrato = contrato;
     }
 
-    @Override
-    public String toString() {
-        return "Temporario{" +
-                "salario=" + salario +
-                ", contrato='" + contrato + '\'' +
-                ", matricula=" + matricula +
-                ", nome='" + nome + '\'' +
-                ", cargo='" + cargo + '\'' +
-                '}';
-    }
 }

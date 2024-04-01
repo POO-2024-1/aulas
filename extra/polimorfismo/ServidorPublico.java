@@ -1,4 +1,4 @@
-package aula2.polimorfismo;
+package extra.polimorfismo;
 
 public class ServidorPublico {
 

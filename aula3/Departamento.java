@@ -6,6 +6,8 @@ public class Departamento {
 
     private String sigla;
 
+    private static final String UNIVERSIDADE = "UFG";
+
     public Departamento(String nome, String sigla) {
         this.nome = nome;
         this.sigla = sigla;

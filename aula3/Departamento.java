@@ -34,6 +34,7 @@ public class Departamento {
         return "Departamento{" +
                 "nome='" + nome + '\'' +
                 ", sigla='" + sigla + '\'' +
+                ", universidade='" + UNIVERSIDADE + '\'' +
                 '}';
     }
 }

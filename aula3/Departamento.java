@@ -29,6 +29,10 @@ public class Departamento {
         this.sigla = sigla;
     }
 
+    public String getUniversidade(){
+        return UNIVERSIDADE;
+    }
+
     @Override
     public String toString() {
         return "Departamento{" +

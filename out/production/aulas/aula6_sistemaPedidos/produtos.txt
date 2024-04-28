@@ -1,0 +1,10 @@
+1,Camiseta,Preta e de algodao,10.5,100
+2,Cueca,branca e cheirosa,20.75,50
+3,Calça Jeans,Primeira calça jeans,15.99,80
+4,Shorts Academia,shorts confortável,5.25,200
+5,Meião de Futebol,jogue igual a um craque,8.99,150
+6,Chuteira Nike,linda e confortável,12.49,90
+7,Jordan 11,the goat,18.0,120
+8,Boné,azul marinho,22.8,70
+9,Agasalho Adidas,apertado e confortável,30.0,40
+10,Roupa de Nenê,ele vai parecer um pequeno adulto,9.75,180

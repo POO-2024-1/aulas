@@ -1,1 +1,45 @@
-**/desktop.ini
+# Arquivos de log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Diretório de build do Maven
+target/
+
+# Diretórios de build de outras ferramentas
+out/
+build/
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos compilados do Java
+*.class
+
+# Arquivos de pacotes
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de execução do IntelliJ
+.idea/runConfigurations/
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos do VS Code
+.vscode/
+
+# Descomente a linha abaixo se você não quiser versionar os arquivos de dados
+# *.csv
